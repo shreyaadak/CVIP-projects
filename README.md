@@ -4,6 +4,7 @@ As part of my Web Development Internship at CodersCave, I am excited to present 
 
 ## Internship Details:
 - Domain: Web Development Intern
+- Batch: August 2023, Batch 2
 - Start Date: 16 August,2023
 - One month Intership programme
   
